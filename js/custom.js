@@ -24,6 +24,6 @@
       "images/mobile-phones.jpg",
       "images/camerap.jpg",
     ],
-    { duration: 3000, fade: 200 }
+    { duration: 5000, fade: 200 }
   );
 })(window.jQuery);
