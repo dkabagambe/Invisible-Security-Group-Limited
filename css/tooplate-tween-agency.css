@@ -655,12 +655,13 @@ button:focus:not(:focus-visible) {
   font-size: var(--copyright-text-font-size);
   margin-top: 5px;
   margin-bottom: 5px;
+  font-size: 19px;
+  font-family: dosis;
 }
 
 .footer-menu-link:hover,
 .footer-link:hover {
   color: blue;
-  font-size: 1.1rem;
 }
 
 .site-footer .social-icon-link,
@@ -832,7 +833,6 @@ button:focus:not(:focus-visible) {
 /*whatsapp styles*/
 .qlwapp-whatsapp-icon {
   font-family: "qlwapp-whatsapp" !important;
-  speak: none;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
