@@ -19,10 +19,10 @@
   // BACKSTRETCH SLIDESHOW
   $("#section_1").backstretch(
     [
-      "images/legal.jpg",
+      "images/Legal.jpg",
       "images/handcuff.jpg",
       "images/mobile-phones.jpg",
-      "images/camera1.jpg",
+      "images/camerap.jpg",
     ],
     { duration: 3000, fade: 200 }
   );
