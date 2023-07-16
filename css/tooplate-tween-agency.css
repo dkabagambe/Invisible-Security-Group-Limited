@@ -651,12 +651,13 @@ button:focus:not(:focus-visible) {
 .footer-menu-link,
 .footer-link {
   display: inline-block;
-  color: rgba(255, 255, 255, 0.9);
   font-size: var(--copyright-text-font-size);
   margin-top: 5px;
   margin-bottom: 5px;
-  font-size: 19px;
+  font-size: 18px;
   font-family: dosis;
+  color: #ffffff;
+  text-align: left;
 }
 
 .footer-menu-link:hover,
